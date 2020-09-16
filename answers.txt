@@ -1,8 +1,0 @@
-• What is a gitignore file and what should it include for a Java project?
-    It contains file type which is to be ignore when staging to repo.
-• What does fast-forward in Git mean?
-    When branch is not divergent from master, master instead of merging can fast forward to sync with the branch.
-• Why should you have different branches?
-    Multiple developers can work on same files without a deadlock.
-• In a project how many remote Git repositories do you usually have?
-    1 reportistory - Origin.
