@@ -5,4 +5,4 @@
 • Why should you have different branches?
     Multiple developers can work on same files without a deadlock.
 • In a project how many remote Git repositories do you usually have?
-    1 reportistory - Origin.
+    1 reportistory : Origin.
